@@ -2,7 +2,7 @@
 
 This app, built using Swift and Xcode, provides a platform for art enthusiasts to explore, purchase, and appreciate unique masterpieces. With seamless Apple Pay integration and adherence to the Model-View-Controller (MVC) pattern, Artly offers a secure, user-friendly, and aesthetically pleasing experience.
 
-## Key Features
+## Key Features:
 
 - **Elegant Art Showcase**: Artly presents a visually appealing platform to showcase captivating artwork created by [Your Name].
   
